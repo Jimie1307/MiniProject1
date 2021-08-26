@@ -1,0 +1,21 @@
+PROJECT SEPANJANG DEGREE
+
+
+	LEAVE MANAGEMENT SYSTEM [GROUP] JAVA (Semester 2)/ HTML, PHP(Semester 3) 
+	1) Keeps track of overall employee leave applications
+	2) Manages how many days that employees applied, remaining leave days including reason of leave 
+	3) Has implemention of maximum leave days applicable according to respective reasons given
+	4) Allows adding and removing employees
+	5) Generates overall report of the data within the system including graph to summarize (total leaves annually/monthly, employee with most leaves,
+	common leave reasons, department with most total leave applications)
+	STOCK MANAGEMENT SYSTEM [GROUP] <span class="explain"> C++ (Semester 3) 
+	1) Stores and updates number of stocks of items in a business 
+	2) Alerts admin/shop owner about stock shrotage<br><br> 3) Generates resits of customer purchases 
+
+	 2020 
+	MINI CLICK GAME [INDIVIDUAL] <span class="explain"> SQUEAK (SCRATCH SOFTWARE) <p style="margin-right: 1%;"> A mini click game where players try to catch the fairy as much as they can within a time limit
+	 LEARNING MODULE PROGRAMME [INDIVIDUAL] <span class="explain"> SQUEAK (SCRATCH SOFTWARE)<p style="margin-right: 1%;"> A learning module about basic knowledge on cells 
+	3D MODELLING [INDIVIDUAL] <span class="explain"> 3D BUILDER <p style="margin-right: 1%;"> I made a 3d model of a Shimono fragrance bottle and JKR logo 
+	CALCULATOR [INDIVIDUAL] <span class="explain"> MIT APP INVENTOR <p style="margin-right: 1%;"> A basic calculator with MR function 
+	SHORT ANIMATION STORY [GROUP] <span class="explain"> SQUEAK (SCRATCH SOFTWARE) <p style="margin-right: 1%;"> A story about a underwater-living creature's love story gone wrong 
+	SONG RHYTHM [GROUP] <span class="explain"> ARDUINO <p style="margin-right: 1%;"> A simple program where LEDs blinks  with also beeps that follows the beat of a song
